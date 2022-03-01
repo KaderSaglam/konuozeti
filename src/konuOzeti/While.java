@@ -25,10 +25,7 @@ public class While {
 
 
         }
-
-
-
-    private static void dogru() {
+ private static void dogru() {
         System.out.println("hosgeldin yapcagin isslem ne");
 
     }

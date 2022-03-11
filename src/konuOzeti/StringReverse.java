@@ -20,7 +20,7 @@ public class StringReverse {
 
 
 
-        System.out.println("\n String Builder");
+        System.out.println("\n String Builder \n");
 
 
 StringBuilder sb=new StringBuilder();
